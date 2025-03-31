@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suppressions xmlns="https://jeremylong.github.io/DependencyCheck/dependency-suppression.1.4.xsd">
+<suppression>
+<cve>CVE-2022-4742</cve>
+<notes>Excluido porque no usamos la parte vulnerable de body-parser</notes>
+</suppression>
+</suppressions>
